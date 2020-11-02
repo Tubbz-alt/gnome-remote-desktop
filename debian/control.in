@@ -21,7 +21,7 @@ Vcs-Git: https://salsa.debian.org/gnome-team/gnome-remote-desktop.git
 Homepage: https://wiki.gnome.org/Projects/Mutter/RemoteDesktop
 
 Package: gnome-remote-desktop
-Architecture: linux-any
+Architecture: amd64
 Depends: ${misc:Depends},
          ${shlibs:Depends},
          gnome-shell (>= 3.36),
